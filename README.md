@@ -18,5 +18,5 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <img align="left" alt="SQL" width="50px" src="https://img.icons8.com/color/344/sql.png"/>
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=ruveydee&theme=black" alt="my github stats" width="42%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruveydee&theme=black" alt="my commit status" width="42%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ruveydee&theme=blue" alt="my github stats" width="42%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruveydee&theme=blue" alt="my commit status" width="42%" /> </p>
