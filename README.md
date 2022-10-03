@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=+Hi+!+,+I'm+Rüveyde+Kaygısız;+I'am+a+Data+Scientist!)](https://git.io/typing-svg)
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=+Hi+!+,+I'm+Rüveyde+Kaygısız+I'am+a+Data+Scientist!)](https://git.io/typing-svg)
+<br>
 <img src="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltabdc820111460470/60e2e01eb35a4449286a0a8b/DataScientist-female-adobe-cp.jpg" alt="bootstrap" width="500" height="300"/> 
 <br><br>
 I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisualization skills ❤️ 
@@ -16,3 +16,6 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <img align="left" alt="Pandas" width="50px" src="https://img.icons8.com/color/344/pandas.png"/>
 <img align="left" alt="Database" width="50px" src="https://img.icons8.com/office/344/database.png"/>
 <img align="left" alt="SQL" width="50px" src="https://img.icons8.com/color/344/sql.png"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=ruveydee&theme=black" alt="my github stats" width="42%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruveydee&theme=black" alt="my commit status" width="42%" /> </p>
