@@ -20,7 +20,7 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/tableau-software.png" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/tableau-software.png" alt="Tableau" height="60"/> </a>
 
 
 
@@ -28,18 +28,18 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 ## Python Libraries
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img src="[https://www.scipy.org/_static/logo.png](https://e7.pngegg.com/pngimages/665/534/png-clipart-scipy-numpy-python-scikit-learn-pip-others-miscellaneous-blue.png)" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
 
 ## Machine Learning| Deep Learning | Natural Language Processing 
 <p align="left">
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = Scikit height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt = TensorFlow height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt = Keras height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt = AWS height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/sitecore-cdp-integration-for-amazon-sagemaker/amazon_sagemaker-min.png?md=20220523T181222Z" alt = Amazon SageMaker height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = Scikit-Learn height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt = TensorFlow height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt = Keras height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt = AWS height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/sitecore-cdp-integration-for-amazon-sagemaker/amazon_sagemaker-min.png?md=20220523T181222Z" alt = Amazon SageMaker height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="45"/> </a>
 </p>
 
 <p align="left">
