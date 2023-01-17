@@ -27,6 +27,7 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
 
 
 <p align="left">
