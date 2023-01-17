@@ -20,7 +20,9 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABH0lEQVR4nO2XvQ2DMBBGbwHvkSY70GUIKOhpqIAmE6SAOqFIJglVZskWF1kKkgt+fNhgjO9JnyxZFPd8trABmGHK+hFVTYtyBB8pWcDRqvcp6nsut5Ac1XnYM1XT4lycFohPQJk1OpBebygDLgVMDnHKAhoE1QEqKQsMrDQ1QFhpaiAogTGCOgPf4ox9dL5PWUAD7sAWW6ic+IO66ECcvaMk61COxgIUqAJjhCFQLrzHq0UuDYwUrST/C+TqvJWX1FoCSdbhXI7VAe/PQDACn9MJZdYQEJcXyhgLTOFCwCosMIHgDljeQlSEzQ70hVJDKZQaCErA+y00RlACMfEPKlhAg8N3IDa4x4stBOYgv6T2htFLam9Yvce7gAUY8IMfuT9B6eZNKYoAAAAASUVORK5CYII=">
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/tableau-software.png" height="60"/> </a>
+
+
 
 
 ## Python Libraries
