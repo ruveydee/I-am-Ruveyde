@@ -15,22 +15,22 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <img align="left" alt="Database" width="50px" src="https://img.icons8.com/office/344/database.png"/>
 <img align="left" alt="SQL" width="50px" src="https://img.icons8.com/color/344/sql.png"/>
 <br><br>
+<br><br>
 
 ## Data Visualization 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/tableau-software.png" alt="Tableau" height="60"/> </a>
-
-
-
+<a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376638-4489898.png" alt="Tableau" height="180"/> </a>
 
 ## Python Libraries
-<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="120"/> </a>
-<a href="#" target="_blank"> <img src="[https://www.scipy.org/_static/logo.png](https://e7.pngegg.com/pngimages/665/534/png-clipart-scipy-numpy-python-scikit-learn-pip-others-miscellaneous-blue.png)" alt="SciPy" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" width="120"/> </a>
+
+<br><br>
 
 ## Machine Learning| Deep Learning | Natural Language Processing 
 <p align="left">
@@ -38,9 +38,11 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 <a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt = TensorFlow height="45"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt = Keras height="45"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt = AWS height="45"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/sitecore-cdp-integration-for-amazon-sagemaker/amazon_sagemaker-min.png?md=20220523T181222Z" alt = Amazon SageMaker height="45"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/sitecore-cdp-integration-for-amazon-sagemaker/amazon_sagemaker-min.png?md=20220523T181222Z" alt = Amazon SageMaker height="55"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="55"/> </a>
 </p>
+
+<br><br>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ruveydee&theme=white" alt="my github stats" width="49%"/>&nbsp;
