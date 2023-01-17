@@ -34,12 +34,12 @@ I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisuali
 
 ## Machine Learning| Deep Learning | Natural Language Processing 
 <p align="left">
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = Scikit height="25"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt = TensorFlow height="25"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt = Keras height="25"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt = AWS height="25"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/sitecore-cdp-integration-for-amazon-sagemaker/amazon_sagemaker-min.png?md=20220523T181222Z" alt = Amazon SageMaker height="40"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="40"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt = Scikit height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt = TensorFlow height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt = Keras height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt = AWS height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/sitecore-cdp-integration-for-amazon-sagemaker/amazon_sagemaker-min.png?md=20220523T181222Z" alt = Amazon SageMaker height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="60"/> </a>
 </p>
 
 <p align="left">
