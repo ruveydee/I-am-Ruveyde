@@ -2,7 +2,7 @@
 <br><br>
 <img src="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltabdc820111460470/60e2e01eb35a4449286a0a8b/DataScientist-female-adobe-cp.jpg" alt="bootstrap" width="500" height="300"/> 
 <br><br>
-I’m currently improving my SQL | PythonwithDataAnaysis | PythonwithDataVisualization skills ❤️ 
+I’m constantly improving my SQL | DataAnaysis | DataVisualization skills ❤️ 
 <br>
 
 ## 🔧 Languages and Tools:
