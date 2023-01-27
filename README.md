@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=pink&lines=+Hi+!+,+I'm+Rüveyde+Kaygısız;I'am+a+Data+Analyst!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=+Hi!+,+Welcome+to+My+GitHub+Account;+I'm+Rüveyde+Kaygısız+I'am+a+Data!)](https://git.io/typing-svg)
 <br><br>
 <img src="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltabdc820111460470/60e2e01eb35a4449286a0a8b/DataScientist-female-adobe-cp.jpg" alt="bootstrap" width="500" height="300"/> 
 <br><br>
@@ -18,17 +18,17 @@ I’m constantly improving my SQL | DataAnaysis | DataVisualization skills ❤�
 <br><br>
 
 ## Data Visualization 
-<a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="45"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="45" height="60"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376638-4489898.png" alt="Tableau" height="180"/> </a>
 
 ## Python Libraries
-<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" height="45" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="45" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="45" width="120"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="45" height="30"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="45" width="120"/> </a>
 
 <br><br>
 
