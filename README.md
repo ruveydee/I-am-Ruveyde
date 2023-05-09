@@ -42,6 +42,41 @@ I’m constantly improving my SQL | DataAnaysis | DataVisualization skills ❤�
 <a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="55"/> </a>
 </p>
 
+### <h2 align="center">&#127894; My Projects</h2>
+
+ <table>
+<tr >
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+  
+</tr>
+  
+  
+<tr>
+    <td align=center >1.</td>
+    <td>Customer Segmentation(RFM&Cohort) </td>
+    <td>(https://github.com/ruveydee/Customer_Segmentation_Project.git)</td> 
+    <td></td>
+</tr>
+  
+ <tr>
+    <td align=center >2.</td>
+    <td>Fraud Dedection </td>
+    <td>(https://github.com/ruveydee/Fraud_Dedection_Project.git)</td> 
+    <td>ML_Models-ANN</td>
+</tr>
+      
+
+ <tr>
+    <td align=center >3.</td>
+    <td>ML Auto Scout Project </td>
+    <td>https://github.com/ruveydee/ML_AutoScotProject.git</td> 
+    <td></td>
+</tr>
+  
+
 <br><br>
 
 <p align="left">
