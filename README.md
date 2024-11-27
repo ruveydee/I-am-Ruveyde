@@ -4,7 +4,7 @@
 <br><br>
 I’m constantly improving my SQL | DataAnaysis | DataVisualization skills ❤️ 
 <br><br>
-I'm willing to learn Generative AI, LLMs, create new my model.Looks like that It's going to be inseparable part of my life ♚
+I'm willing to learn Generative AI, LLMs, create new my model. Looks like that it's going to be inseparable part of my life ♚
 <br>
 
 ## 🔧 Languages and Tools:
